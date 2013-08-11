@@ -1,0 +1,15 @@
+{
+  "modinfoversion": 2,
+  "modlist": [{
+    "modid": "RevivalBook",
+    "name": "Revival Book",
+    "description": "Revive your friends! Or don't!",
+    "version": "1.0.0",
+    "mcversion": "1.5.2",
+    "url": "http://schlarp.com/",
+    "updateUrl": "",
+    "authors": [ "schlarpc" ],
+    "credits": "",
+    "requiredMods": [ "Forge" ]
+  }]
+}
